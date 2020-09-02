@@ -51,7 +51,7 @@
     "globby": "^8.0.1",
     "js-yaml": "^3.13.1",
     "mdx-deck": "^1.8.2",
-    "mermaid": "^8.0.0-rc.8",
+    "mermaid": "^8.2.3",
     "mermaid.cli": "^0.5.1",
     "npm-which": "^3.0.1",
     "postcss-advanced-variables": "^3.0.0",
